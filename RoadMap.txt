@@ -2,3 +2,15 @@
 2- CSS
 3- JavaScript
 4- React.JS
+5- Node.JS | SQL
+6- MongoDB
+
+
+-------------------------------------
+
+JavaScript Development
+
+
+-------------------------------------
+
+✨DevOPS✨ Journey
