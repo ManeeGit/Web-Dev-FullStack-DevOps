@@ -1,1 +1,2 @@
-Beginning of JavaScript Alone
+Beginning of JavaScript Alone.
+Done Basic Understanding of MATH in JavaScript (Date: 11 July 2023)
