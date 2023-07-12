@@ -1,0 +1,8 @@
+July 12 2023 - Linux Day 2 done with Permissions & Ownerships
+
+File Level:
+-------------
+useradd <username>
+chown <username> <filename>
+
+changing group also : chown :<username> <filename>
