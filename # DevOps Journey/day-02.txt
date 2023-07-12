@@ -6,3 +6,6 @@ useradd <username>
 chown <username> <filename>
 
 changing group also : chown :<username> <filename>
+
+Directory level:
+-----------------

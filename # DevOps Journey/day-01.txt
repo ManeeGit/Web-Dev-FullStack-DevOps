@@ -1,1 +1,30 @@
 July 11 2023 - Linux Day 1 (Putty Software connecting Public keys and converting them to Pvt Keys)
+
+Step 1 :
+-----------
+Start AWS instance of Linux/aws-Linux
+Copy the public IP address
+Paste in the PuttyGen -> go to connections -> change the limit of time 
+Then click on Auth -> Browse your PPK file of your Linux Instance -> Click on Open.
+Now you are ready to use your Linux Instace in your PC.
+
+Step 2:
+-----------
+login : ec2-user
+you will be entered into ec2 user. So, you have to go into ROOT user.
+so, enter : sudo -i 
+Now, you are the Root user.
+
+Directories & Files :
+==========================
+pwd    : location
+ls     : list of files and Directories
+ls -al : list of files along with Hidden files
+ls -l <filename> : gives the Ownership details 
+
+mkdir : make a Directory
+rmdir : remove Directory
+
+rm -f <filename> : removes a file 
+
+touch <filename> : create a file 
