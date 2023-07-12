@@ -1,5 +1,7 @@
 July 12 2023 - Linux Day 2 done with Permissions & Ownerships
 
+
+
 File Level:
 -------------
 useradd <username>
@@ -7,5 +9,42 @@ chown <username> <filename>
 
 changing group also : chown :<username> <filename>
 
+To check the Ownerships in file level : 
+ls -l <filename>
+
 Directory level:
 -----------------
+Giving the Ownerships Recursively :
+chown -R <username>:<groupname> <directoryname>
+
+To check the Ownerships in Directory level : 
+ls -ld <directoryname>
+
+
+
+Permissions:
+================
+All file system objects on Unix-like systems have 3 main types of permissions.
+1.READ    - 4
+2.Write   - 2
+3.Execute - 1
+
+Permissions are based upon 3 possible classes:
+USER | USERGROUP | ALL SYSTEM USERS
+
+To see the permissions : 
+---------------------------
+ls -lha
+
+The output will be : drwxr-xr-r-x 2 manee manee 66 Jul 12 06:44 DirectoryName
+
+1st Char shows whether it is a File / Directory
+2nd Char User Level 
+3rd Char Group level
+4th Char All System Users
+
+d     rwx      r-x     r-x
+dir   user     group   others/ All System Users
+
+chmod - change mode
+
