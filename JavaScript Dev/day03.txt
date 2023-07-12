@@ -1,0 +1,8 @@
+Strings
+----------------------------------
+Using Strings along with Numbers
+Three ways to create : '' " " ``
+Escape Characters : \' \n 
+Interpolation (` `) , MultiLine Strings
+
+
