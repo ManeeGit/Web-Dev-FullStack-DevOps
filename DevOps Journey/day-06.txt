@@ -1,6 +1,4 @@
-Day 06 - 
-
-Permissions in Linux
+Day 06 - Permissions in Linux
 
 VIM editor
 
