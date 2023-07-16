@@ -1,1 +1,7 @@
-Day 06-
+Day 06 - 
+
+Permissions in Linux
+
+VIM editor
+
+1:18 video-03
