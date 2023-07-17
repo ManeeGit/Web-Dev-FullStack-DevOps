@@ -1,0 +1,35 @@
+17 July - Software Management & Networking
+
+RPM - Redhat Package Manager
+
+YUM - Yellow Dog Update Manager
+
+RPM
+--------------------
+rpm -qa } checking 
+
+rpm -ivh <packagename>  } for installing
+
+rpm -i packagename.rpm } Installing in SUDO mode 
+
+============================================================
+
+Networking :
+---------------------------------------------
+It is a connection between two or more machines to communicate with each other
+
+Basic Requirements for Networking :
+1. NIC - Network Interface Card/controller.
+2. Media
+3. Topology
+4. Protocol
+5. I.P Addresses
+
+1. NIC
+---------
+NIC is used for Network Adaptor, LAN Adaptor
+
+
+
+
+LINUX is completed
